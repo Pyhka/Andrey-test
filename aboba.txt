@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 if__name__;
 Nick
 
 Abobys-Ketch
 Nik-Azaza
 KEk
+=======
+Abobys-Globys
+Nik-Min
+KEk
+>>>>>>> f945a634153359ea94eaa7fd891c95d5d0ee64b5
